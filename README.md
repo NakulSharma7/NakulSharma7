@@ -160,8 +160,6 @@ const developer = {
   <img src="https://raw.githubusercontent.com/NakulSharma7/NakulSharma7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
-> ⚙️ Snake tabhi dikhega jab `snake.yml` workflow ek baar run ho jaye — steps neeche SETUP.md me hain.
-
 ## 📬 Connect With Me
 
 <details>
